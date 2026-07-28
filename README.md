@@ -1,5 +1,6 @@
-You must create a "connect.env" file where your email and app password will be located.
+You must create a "connect.env" file where your email and app password will be located.\n
 Only for google.
 
 EMAIL=... your email
+
 GMAIL_KEY=... your app password
