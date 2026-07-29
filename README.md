@@ -5,6 +5,5 @@ Only for google.
 For example!!
 ```
 EMAIL=... your email
-
 GMAIL_KEY=... your app password
 ```
